@@ -3,7 +3,7 @@
 
 ---
 
-#### The first prototype of the website is online! View it [here](wikipedia.org).
+#### The first prototype of the website is online! View it [here](https://tompkinsfarmweb.github.io/tompkinsfarm/).
 
 ---
 
